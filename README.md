@@ -1,6 +1,6 @@
 # Interactive card details form
 
-![Design preview for the project ](./src/images/preview.png)
+![Design preview for the project ](preview.png)
 
 ## Welcome 😊
 
